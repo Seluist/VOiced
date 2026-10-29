@@ -1,0 +1,6 @@
+{
+  "name": "VoiceMod Live",
+  "description": "Real-time in-call voice changer with DSP pitch/formant shifting, presets, audio loopback, and live visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
